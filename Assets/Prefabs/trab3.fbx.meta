@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: e27f34cecdf11724cbddc3164bf078cb
+timeCreated: 1504619225
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: $AMBIENT$
+    100002: Boat
+    100004: Camera
+    100006: Circle
+    100008: island_mesh01_1
+    100010: island_mesh01_1_MeshPart0
+    100012: island_mesh01_1_MeshPart1
+    100014: island_mesh01_2
+    100016: island_mesh01_3
+    100018: island_mesh01_3_MeshPart0
+    100020: island_mesh01_3_MeshPart1
+    100022: island_mesh01_4
+    100024: island_mesh01_5
+    100026: Lamp
+    100028: Lamp.001
+    100030: Lamp.002
+    100032: Light
+    100034: 'Light #2'
+    100036: Oar_Left
+    100038: Oar_Right
+    100040: Oar_Seat
+    100042: Oar_Seat2
+    100044: Seat_1
+    100046: Seat_2
+    100048: Seat_3
+    100050: Terrain_Terrain_1
+    100052: tortoise
+    100054: //RootNode
+    400000: $AMBIENT$
+    400002: Boat
+    400004: Camera
+    400006: Circle
+    400008: island_mesh01_1
+    400010: island_mesh01_1_MeshPart0
+    400012: island_mesh01_1_MeshPart1
+    400014: island_mesh01_2
+    400016: island_mesh01_3
+    400018: island_mesh01_3_MeshPart0
+    400020: island_mesh01_3_MeshPart1
+    400022: island_mesh01_4
+    400024: island_mesh01_5
+    400026: Lamp
+    400028: Lamp.001
+    400030: Lamp.002
+    400032: Light
+    400034: 'Light #2'
+    400036: Oar_Left
+    400038: Oar_Right
+    400040: Oar_Seat
+    400042: Oar_Seat2
+    400044: Seat_1
+    400046: Seat_2
+    400048: Seat_3
+    400050: Terrain_Terrain_1
+    400052: tortoise
+    400054: //RootNode
+    2300000: Boat
+    2300002: Circle
+    2300004: island_mesh01_1_MeshPart0
+    2300006: island_mesh01_1_MeshPart1
+    2300008: island_mesh01_2
+    2300010: island_mesh01_3_MeshPart0
+    2300012: island_mesh01_3_MeshPart1
+    2300014: island_mesh01_4
+    2300016: island_mesh01_5
+    2300018: Light
+    2300020: 'Light #2'
+    2300022: Oar_Left
+    2300024: Oar_Right
+    2300026: Oar_Seat
+    2300028: Oar_Seat2
+    2300030: Seat_1
+    2300032: Seat_2
+    2300034: Seat_3
+    2300036: Terrain_Terrain_1
+    2300038: tortoise
+    3300000: Boat
+    3300002: Circle
+    3300004: island_mesh01_1_MeshPart0
+    3300006: island_mesh01_1_MeshPart1
+    3300008: island_mesh01_2
+    3300010: island_mesh01_3_MeshPart0
+    3300012: island_mesh01_3_MeshPart1
+    3300014: island_mesh01_4
+    3300016: island_mesh01_5
+    3300018: Light
+    3300020: 'Light #2'
+    3300022: Oar_Left
+    3300024: Oar_Right
+    3300026: Oar_Seat
+    3300028: Oar_Seat2
+    3300030: Seat_1
+    3300032: Seat_2
+    3300034: Seat_3
+    3300036: Terrain_Terrain_1
+    3300038: tortoise
+    4300000: 'Light #2'
+    4300002: Light
+    4300004: tortoise
+    4300006: Boat
+    4300008: Seat_1
+    4300010: Seat_2
+    4300012: Seat_3
+    4300014: Oar_Left
+    4300016: Oar_Seat
+    4300018: Oar_Seat2
+    4300020: Oar_Right
+    4300022: Circle
+    4300024: island_mesh01_4
+    4300026: Terrain_Terrain_1
+    4300028: island_mesh01_2
+    4300030: island_mesh01_1_MeshPart0
+    4300032: island_mesh01_1_MeshPart1
+    4300034: island_mesh01_3_MeshPart0
+    4300036: island_mesh01_3_MeshPart1
+    4300038: island_mesh01_5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
